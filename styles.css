@@ -36,8 +36,6 @@ body {
 @media (max-width: 600px) { 
     body {
         background-image: url("./assets/images/background_mobile.png");
-        background-position: center 100%;
-        background-size: 110%;
     }
 }
 
